@@ -1,3 +1,8 @@
+.main{
+    background-image: url("/images/Madrid1.jpg");
+    width: 100%;
+    height: 100vh;
+}
 
 .color-button-main{
    background-color: #E2A355;
