@@ -15,3 +15,17 @@
 .title-main{
     margin: 1rem;
 }
+.card-section-left{
+    background-color: #DEB37E;
+    padding: 22px 10px;
+}
+.card-section-right{
+    background-color: #7F7770;
+    padding: 30px 10px 25px 10px;
+}
+
+.col-sm-6{
+    padding: 0px;
+    height: 333px;
+    overflow: hidden;
+}
