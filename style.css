@@ -1,0 +1,44 @@
+
+.footer01{
+    background-color:#deb37e;
+}
+.footer02{
+    background-color: #7f7770;
+    
+}
+.fIcons{
+    flex-direction: row;
+    
+}
+.color-icon{
+    color: white;
+}
+.aboutUs{
+    flex-direction: column;
+    margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 10rem;
+    color: white;
+}
+.f02Div{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 10rem;
+    color: white;
+}
+.services{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 10rem;
+    color: white;
+}
+.other{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 10rem;
+    color: white;
+}
